@@ -1,6 +1,18 @@
 # IDEs
 .idea/
+.vscode/*
 
 # Hugo
-resources/
 public/
+resources/
+
+# My Ignores
+content/post/writing_technical/*
+content/project/external-project/*
+content/project/internal-project/*
+
+*.ipynb
+content/post/exploratory_analysis/trains.csv
+content/post/exploratory_analysis/vplot.abc
+content/post/exploratory_analysis/vplot.json
+content/post/exploratory_analysis/bar.abc
