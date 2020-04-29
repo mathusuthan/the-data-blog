@@ -8,8 +8,8 @@ tags:
 - Haiku
 - JAX
 - Projects
-date: "2020-02-26T05:30:00Z"
-draft: true
+date: "2020-04-28T05:30:00Z"
+draft: false
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
@@ -30,10 +30,10 @@ url_video: ""
 slides: ""
 ---
 
-This repo contains some simple Deep Learning models I built to teach my team Deep Learning.
+This repo contains some simple Deep Learning models I built to teach my team Deep Learning. I will be porting them to the latest versions of PyTorch and TensorFlow and posting them in the repo.
 
 The initial code was from the [repo](https://github.com/lukas/ml-class). I have modified the TensorFlow code to fit my coding style and added PyTorch code as well.
 
-I have recently started translating the code to [Haiku](https://github.com/deepmind/dm-haiku)  which is a neural network library for [JAX](https://github.com/google/jax).
+I am working on translating the code to [Haiku](https://github.com/deepmind/dm-haiku)  which is a neural network library for [JAX](https://github.com/google/jax).
 
 You can find the code at my GitHub [repo](https://github.com/mathusuthan/gently-dl).
