@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Mathusuthan
+role: Mathusuthan Neyveli Kannan
 
 # Organizations/Affiliations
 organizations:
@@ -22,6 +22,7 @@ bio: My primary interest is in using Data, Machine Learning, Math, and Algorithm
 
 interests:
 - Artificial Intelligence
+- Deep Learning
 - Machine Learning
 - Data Engineering
 - Applied Mathematics
