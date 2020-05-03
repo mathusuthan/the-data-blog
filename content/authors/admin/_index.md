@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My primary interest is in using Data, Machine Learning, Math, and Algorithms to solve business problems.
+bio: My primary interest is in using Data, Machine Learning, Math and Algorithms to solve business problems.
 
 interests:
 - Artificial Intelligence

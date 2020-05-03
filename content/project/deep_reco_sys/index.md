@@ -7,7 +7,7 @@ tags:
 - TensorFlow
 - RecSys
 - Projects
-date: "2020-02-26T05:30:00Z"
+date: "2020-05-15T05:30:00Z"
 draft: true
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,7 +16,7 @@ image:
   caption: Photo by Erik Witsoe on Unsplash
   focal_point: Smart
 
-url_code: "https://github.com/mathusuthan/deep-projects"
+url_code: "https://github.com/mathusuthan/deep-projects/recsys"
 url_pdf: ""
 url_slides: ""
 url_video: ""
