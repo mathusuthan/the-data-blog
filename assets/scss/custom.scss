@@ -36,6 +36,17 @@ div.alert-hint > div:first-child::before {
   background-color: #cce8cf;
   border-color: #28a745; }
 
+
+  .dark a,
+  .dark h3.article-title a:hover {
+    color: #e89e89;
+    text-decoration: none;
+    transition: color 0.6s ease; }
+
+  .dark .card h4 a {
+    color: #e89e89;
+    border-bottom: solid 1px transparent; }
+
 .intro {
     background:linear-gradient(233deg, #e56420, #c22525, #3d9c31, #37bbde);
        width:100%;
