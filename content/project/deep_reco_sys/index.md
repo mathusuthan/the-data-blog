@@ -6,7 +6,7 @@ tags:
 - PyTorch
 - TensorFlow
 - RecSys
-- Projects
+
 date: "2020-05-15T05:30:00Z"
 draft: true
 # Optional external URL for project (replaces project detail page).

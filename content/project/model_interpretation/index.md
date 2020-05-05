@@ -3,7 +3,6 @@ title: Explaining Machine Learning Models
 summary: Approaches to explain and interpret Machine Learning Models
 tags:
 - Machine Learning
-- Projects
 - Explainable AI
 date: "2020-02-26T05:30:00Z"
 draft: true

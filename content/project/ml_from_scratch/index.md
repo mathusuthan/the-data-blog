@@ -7,7 +7,6 @@ tags:
 - Data Mining
 - Deep Learning
 - JAX
-- Projects
 - Python
 - Machine Learning
 

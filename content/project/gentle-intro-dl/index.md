@@ -6,7 +6,6 @@ tags:
 - Haiku
 - JAX
 - Keras
-- Projects
 - PyTorch
 - TensorFlow
 

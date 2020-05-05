@@ -5,7 +5,6 @@ tags:
 - CNN
 - Deep Learning
 - NLP
-- Projects
 - PyTorch
 - RNN
 - TensorFlow

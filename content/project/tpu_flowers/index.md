@@ -7,7 +7,7 @@ tags:
 - TensorFlow
 - CNN
 - Computer Vision
-- Projects
+
 date: "2020-02-26T05:30:00Z"
 draft: true
 # Optional external URL for project (replaces project detail page).

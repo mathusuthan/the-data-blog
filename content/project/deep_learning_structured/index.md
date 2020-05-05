@@ -5,7 +5,7 @@ tags:
 - Deep Learning
 - PyTorch
 - TensorFlow
-- Projects
+
 date: "2020-05-10T05:30:00Z"
 draft: true
 # Optional external URL for project (replaces project detail page).
