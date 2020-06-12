@@ -38,3 +38,12 @@ Simple demo of serving Machine Learning / Deep Learning models in production.
 Using fastapi 
 </details>
 
+<details>
+<summary>Copy the code</summary>
+
+```python
+import numpy as np
+import pandas as pd
+```
+
+</details>

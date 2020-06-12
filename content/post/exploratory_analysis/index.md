@@ -1,5 +1,5 @@
 ---
-title: "EDA for Numerical Variables - Part 1"
+title: "Exploratory Data Analysis - Part 1"
 date: "2020-05-05T0530"
 lastMod: "2020-05-05"
 draft: false
