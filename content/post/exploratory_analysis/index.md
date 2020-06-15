@@ -362,18 +362,6 @@ print(f"Column List: {df.columns}")
 
 For our prediction model, the response variable _(the y variable)_ is `Sale Price` and the predictor variables _(about 80 of them)_ are attributes of the houses and their neighborhood.
 
-```python
-# hide
-def export_figures_as_html(num_figures):
-    """Hack to export all plotly figures as HTML pages"""
-    for num in range(1, num_figures + 1):
-        try:
-            eval("fig" + str(num)).write_html('fig' + str(num) + '.html', include_plotlyjs='cdn')
-        except:
-            continue
-
-
-```
 
 ## Visualizing the distribution using the Histogram
 
