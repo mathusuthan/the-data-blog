@@ -1,7 +1,7 @@
 ---
 title: "Notes from Feature Engineering and Selection - Chapter 1: Introduction"
-date: "2020-02-11T00:00:00"
-lastMod: "2020-02-11T00:00:00"
+date: "2020-02-21T00:00:00"
+lastMod: "2020-02-21T00:00:00"
 draft: false
 math: false
 diagram: false

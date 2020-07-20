@@ -1,6 +1,6 @@
 ---
 title: Metrics for Regression - Part 2
-date: "2020-03-07T00:00:00"
+date: "2020-02-17T00:00:00"
 lastMod: "2020-03-07T00:00:00"
 draft: false
 math: true
