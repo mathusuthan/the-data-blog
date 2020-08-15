@@ -1,1 +1,1 @@
-Content for [my blog](https://thedatablog.net).
+Content for [my blog](https://mathusuthan.dev).
